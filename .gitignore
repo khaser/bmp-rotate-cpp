@@ -1,0 +1,5 @@
+build/
+hw-01_bmp
+*.txt
+*.bmp
+obj/
